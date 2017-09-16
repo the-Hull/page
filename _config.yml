@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "PlantsAndWater"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Alexander Hurley"
+description              : "Ecohydrology, conservation and data things."
+url                      : "https://the-hull.github.io/page/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "the-Hull/page" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -67,6 +67,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.researchgate.net/profile/Alexander_Hurley"
 
 # Analytics
 analytics:
@@ -77,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Alexander Hurley"
+  avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Ecohydrologist, Doctoral Research, UseR and nature-lover."
+  location         : "University of Birmingham, UK."
+  email            : "agl.hurley@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,12 +90,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "the-Hull"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "plantsandwater"
   lastfm           :
-  linkedin         :
+  linkedin         : "alexander-hurley-568012147/"
+  researchgate     : "Alexander_Hurley"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -231,6 +233,12 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  cv:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
@@ -244,3 +252,22 @@ defaults:
       comments: # true
       share: true
       related: true
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+
+  # _
+  # - scope:
+  #     path: ""
+  #     type: cv
+  #   values:
+  #     layout: single
+  #     author_profile: false
+  #     share: true

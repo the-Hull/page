@@ -1,12 +1,28 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "About Me"
+    url: /cv/
+  - title: "Projects"
+    url: /research/
+  - title: "Blog"
+    url: /year-archive/
+  - title: "Consulting Services"
+    url: /consulting/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+res:
+    - title: "Research"
+        # url: /research/#research/
+      children:
+        - title: "Ecohydrological functioning of Boreal Plain wetlands"
+          url: /research/#PhD
+        - title: "Trophic dynamics and ecosystem-functioning"
+          url: /research/#BEF
+
+    - title: "Software development"
+      url: /research/#software
+    - title: "Data science products"
+      url: /research/#data-science

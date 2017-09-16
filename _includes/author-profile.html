@@ -83,10 +83,30 @@
         </li>
       {% endif %}
 
+      {% if author.researchgate %}
+        <li>
+
+          <a href="https://www.researchgate.net/profile/{{ author.researchgate }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-area-chart" aria-hidden="true"></i> Researchgate
+          </a>
+        </li>
+      {% endif %}
+
+
       {% if author.linkedin %}
         <li>
           <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs">
             <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn
+          </a>
+        </li>
+      {% endif %}
+
+
+
+      {% if author.github %}
+        <li>
+          <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
           </a>
         </li>
       {% endif %}
@@ -123,13 +143,7 @@
         </li>
       {% endif %}
 
-      {% if author.github %}
-        <li>
-          <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
-          </a>
-        </li>
-      {% endif %}
+
 
       {% if author.stackoverflow %}
         <li>
