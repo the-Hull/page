@@ -12,3 +12,7 @@ example/_site
 Gemfile.lock
 node_modules
 npm-debug.log*
+assets/map.html
+assets/map2.html
+docs/
+test/
