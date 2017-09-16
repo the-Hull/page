@@ -62,10 +62,6 @@ This research is part of a highly collaborative and inter-disciplinary project l
 </small>
 
 
-#### Study Area
-<iframe src="/assets/map.html" width="700" height="500" align = "center"> </iframe>
-<br>
-<br>
 
 ## Simulating impacts of carnivore functional diversity on ecosystem functioning on large spatial and temporal scales <a name = "BEF"></a>
 
