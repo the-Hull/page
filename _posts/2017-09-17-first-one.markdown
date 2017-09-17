@@ -1,5 +1,6 @@
 ---
 title: "First things first."
+author_profile: true
 categories:
   - Updates
 tags:
@@ -11,7 +12,7 @@ tags:
 
 <figure>
 
-<img src = /assets/images/headers/header.jpg> </img>
+<img src = "/assets/images/headers/header.jpg"> </img>
 
 </figure>
 
