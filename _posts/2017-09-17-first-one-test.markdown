@@ -10,7 +10,7 @@ tags:
 abcds
 
 
-{% raw} {% include figure image_path = "page/assets/images/headers/header.jpg" alt = "Dynamic landscapes."}{% endraw %}
+{% include figure image_path = "page/assets/images/headers/header.jpg" alt = "Dynamic landscapes."}
 
 
 
