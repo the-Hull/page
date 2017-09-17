@@ -17,8 +17,8 @@ gallery-cv:
     - url: /assets/images/cv/fisheye.jpg
       image_path: /assets/images/cv/fisheye.jpg
       alt: "Doing work!"  
-    - url: /assets/images/cv/aurora.png
-      image_path: /assets/images/cv/aurora.png
+    - url: /assets/images/cv/aurora.jpg
+      image_path: /assets/images/cv/aurora.jpg
       alt: "Aurora Borealis."    
 permalink: /cv/
 ---
