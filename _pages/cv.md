@@ -30,7 +30,7 @@ permalink: /cv/
 
 I am an early-career researcher at the [University of Birmingham](http://www.birmingham.ac.uk) under [Dr Nick Kettridge](http://www.birmingham.ac.uk/staff/profiles/gees/kettridge-nick.aspx) and [Prof Stefan Krause](http://www.birmingham.ac.uk/staff/profiles/gees/krause-stefan.aspx). I mostly spend my days working toward the completion of my [PhD](/research/), but I sometimes find enough time at my disposal to dive into other subjects. My interests are manifold and are reflected in my skill set, which I continuously strive to expand. Working with people from a variety of fields and backgrounds in collaborative or teaching environments has always been a great joy.
 
-For a detailed CV, my latest research items and projects, or to get in touch, please feel free to click the links on the left.
+For a detailed CV, my latest research items and projects, or to get in touch, please click on the links in the sub-menu.
 
 ## Science, what?
 
