@@ -23,7 +23,7 @@ gallery-cv:
 permalink: /cv/
 ---
 
-{% include gallery id="gallery-intro"  %}
+{% include gallery id="gallery-cv"  %}
 
 
 ## Alex, who?
