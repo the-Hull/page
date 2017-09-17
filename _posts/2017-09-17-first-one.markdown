@@ -9,11 +9,10 @@ tags:
 
 a
 
-<figure>
 
-<a href = "/assets/images/headers/header.jpg"> <img src = "/assets/images/headers/header.jpg"> </a>
+{% include figure image_path = "/assets/images/headers/header.jpg" alt = "Dynamic landscapes."}
 
-</figure>
+
 
 ## Welcome to my website!
 
