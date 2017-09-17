@@ -10,8 +10,21 @@ sidebar:
     plant water-use and physiology, micrometeorology."
   - title: "Other Interests"
     text: "Biodiversity-ecosystem functioning, dendroecology, socio-ecological dynamics"
+gallery-intro:
+    - url: /assets/images/cv/waterfall1.jpg
+    image_path: /assets/images/cv/waterfall1.jpg
+    alt: "Dynamic landscapes."
+    - url: /assets/images/cv/fishey.jpg
+    image_path: /assets/images/cv/fishey.jpg
+    alt: "Doing work!"  
+    - url: /assets/images/cv/aurora.png
+    image_path: /assets/images/cv/aurora.png
+    alt: "Aurora Borealis."    
 permalink: /cv/
 ---
+
+{% include gallery id="gallery-intro" caption="Atmospheric water losses via different pathways from representative locations in a shallow wetland (left), their meteorological control (right) and an exemplary Boreal Plain wetland impacted by fire (center)." %}
+
 
 ## Alex, who?
 
