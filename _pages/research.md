@@ -99,4 +99,4 @@ Science is extremely fun (I hope you agree), yet only useful (beyond being stimu
 
 ### Current Projects
 
-- <small> *In development*. Online public outreach and data exploration platform for the [Birmingham Institute of Forest Research (BIFoR)](http://www.birmingham.ac.uk/research/activity/bifor/index.aspx). An early version is available [here](https://www.aglhurley.shinyapps.io/bifor).</small>
+- <small> Online public outreach and data exploration platform for the [Birmingham Institute of Forest Research (BIFoR)](http://www.birmingham.ac.uk/research/activity/bifor/index.aspx). An early version is available [here](https://aglhurley.shinyapps.io/bifor).  *In development*. </small>
