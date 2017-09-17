@@ -11,10 +11,10 @@ sidebar:
   - title: "Other Interests"
     text: "Biodiversity-ecosystem functioning, dendroecology, socio-ecological dynamics"
 gallery-cv:
-    - url: /assets/images/cv/waterfall1.jpg
+    - url: /assets/images/cv/waterfall.jpg
       image_path: /assets/images/cv/waterfall.jpg
       alt: "Dynamic landscapes."
-    - url: /assets/images/cv/fishey.jpg
+    - url: /assets/images/cv/fisheye.jpg
       image_path: /assets/images/cv/fisheye.jpg
       alt: "Doing work!"  
     - url: /assets/images/cv/aurora.png
