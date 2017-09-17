@@ -10,7 +10,6 @@ tags:
 abcds
 
 
-{% include figure image_path = "page/assets/images/headers/header.jpg" alt = "Dynamic landscapes."}
 
 
 
