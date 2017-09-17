@@ -12,10 +12,10 @@ sidebar:
     text: "Biodiversity-ecosystem functioning, dendroecology, socio-ecological dynamics"
 gallery-cv:
     - url: /assets/images/cv/waterfall1.jpg
-      image_path: /assets/images/cv/waterfall1.jpg
+      image_path: /assets/images/cv/waterfall.jpg
       alt: "Dynamic landscapes."
     - url: /assets/images/cv/fishey.jpg
-      image_path: /assets/images/cv/fishey.jpg
+      image_path: /assets/images/cv/fisheye.jpg
       alt: "Doing work!"  
     - url: /assets/images/cv/aurora.png
       image_path: /assets/images/cv/aurora.png
