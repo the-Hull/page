@@ -1,0 +1,20 @@
+---
+title: "First things first."
+categories:
+  - Updates
+tags:
+  - blogging
+  - research
+
+
+---
+
+<figure>
+
+<img src = /assets/images/headers/header.jpg> </img>
+
+</figure>
+
+## Welcome to my website!
+
+I will be updating [projects details and my latest activities](/research/), as well as sharing experiences, ideas and writing up tips and tutorials on data science approaches. Watch this space!
