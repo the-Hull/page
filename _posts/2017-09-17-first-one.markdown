@@ -1,7 +1,7 @@
 ---
 title: "First things first."
 categories:
-  - Updates
+  - year-archive
 tags:
   - blogging
   - research
