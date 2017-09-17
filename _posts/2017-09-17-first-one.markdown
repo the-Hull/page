@@ -12,7 +12,7 @@ tags:
 
 <figure>
 
-<img src = "/assets/images/headers/header.jpg"> </img>
+<a href = "/assets/images/headers/header.jpg"> <img src = "/assets/images/headers/header.jpg"> </a>
 
 </figure>
 
