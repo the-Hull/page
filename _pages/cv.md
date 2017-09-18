@@ -5,12 +5,12 @@ author_profile: true
 excerpt: "Professional and personal experiences."
 header:
   #image: /assets/images/headers/cv.jpg
-sidebar:
-  - title: "Research Focus"
-    text: "Ecohydrology of boreal wetlands and their interactions with forests, <br />
-    plant water-use and physiology, micrometeorology."
-  - title: "Other Interests"
-    text: "Biodiversity-ecosystem functioning, dendroecology, socio-ecological dynamics"
+#sidebar:
+#  - title: "Research Focus"
+#    text: "Ecohydrology of boreal wetlands and their interactions with forests, <br />
+#    plant water-use and physiology, micrometeorology."
+#  - title: "Other Interests"
+#    text: "Biodiversity-ecosystem functioning, dendroecology, socio-ecological dynamics"
 gallery-cv:
     - url: /assets/images/cv/waterfall.JPG
       image_path: /assets/images/cv/waterfall.JPG
