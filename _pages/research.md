@@ -37,7 +37,7 @@ My research focuses on the interplay of hydrology and ecology of shallow, epheme
 
 This research is part of a highly collaborative and inter-disciplinary project led by multiple universities based in the UK (University of Birmingham) and Canada (Universities of [Alberta](https://devitogroup.squarespace.com/), [McMaster](http://ecohydrology.mcmaster.ca/) and [Waterloo](http://env-blogs.uwaterloo.ca/rpetrone/)), as well as multiple partners from industry and NGOs.
 
-{% include gallery id="gallery-ecohydrology" caption="Atmospheric water losses via different pathways from representative locations in a shallow wetland (left), their meteorological control (right) and an exemplary Boreal Plain wetland impacted by fire (center)." %}
+{% include gallery id="gallery-ecohydrology" %}
 
 
 
@@ -67,7 +67,7 @@ This research is part of a highly collaborative and inter-disciplinary project l
 ## Simulating impacts of carnivore functional diversity on ecosystem functioning on large spatial and temporal scales <a name = "BEF"></a>
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/research/modelling.jpg){: .align-left} Carnivore community composition and richness, i.e. which and how many functional groups are present, control trophic dynamics and thereby regulate ecosystem functioning (ESF). Mechanisms underlying this regulation are mainly inferred via
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/research/modelling.JPG){: .align-left} Carnivore community composition and richness, i.e. which and how many functional groups are present, control trophic dynamics and thereby regulate ecosystem functioning (ESF). Mechanisms underlying this regulation are mainly inferred via
 small-scale (temporal, spatial) experiments with restricted species pools. This limits their application to real-world systems, as results are often specific to a given time (e.g. season), place (e.g. plot or ecoregion), while interactions are generally only observed across few or adjacent trophic levels.
 
 The [*Madingley Model*](https://madingley.github.io/), termed a general ecosystem model, is an agent-based, spatially-explicit model developed by [Microsoft Research in Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) and the [UNEP-WCMC](https://www.unep-wcmc.org/). It is a pioneering effort in trying to overcome aforementioned limitations.
