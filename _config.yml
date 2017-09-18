@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "aglHurley"
+title                    : "A.Hurley"
 title_separator          : "-"
 name                     : "Alexander Hurley"
 description              : "Ecohydrology, conservation and data things."
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Alexander Hurley"
   avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ecohydrologist, Doctoral Research, UseR and nature-lover."
+  bio              : "Ecohydrologist, Doctoral Researcher, UseR and nature-lover."
   location         : "University of Birmingham, UK."
   email            : "agl.hurley@gmail.com"
   uri              :
@@ -95,7 +95,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        :
   lastfm           :
   linkedin         : "alexander-hurley-568012147/"
   researchgate     : "Alexander_Hurley"
