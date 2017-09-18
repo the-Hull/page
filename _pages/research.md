@@ -1,6 +1,7 @@
 ---
 title: "Projects"
-author_profile: false
+layout: single
+author_profile: true
 excerpt: "Professional and personal experiences."
 header:
   image: /assets/images/headers/cv.jpg
@@ -26,6 +27,7 @@ gallery-madingley:
 permalink: /research/
 ---
 
+{% include toc %}
 
 ## Research <a name = "research"></a>
 
