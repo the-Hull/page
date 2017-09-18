@@ -14,5 +14,5 @@ node_modules
 npm-debug.log*
 assets/map.html
 assets/map2.html
-docs/
-test/
+/docs/
+/test/
