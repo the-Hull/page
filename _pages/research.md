@@ -6,7 +6,7 @@ excerpt: "Professional and personal experiences."
 header:
   image: /assets/images/headers/cv.jpg
 sidebar:
-  nav: "res"
+  nav: res
 gallery-ecohydrology:
     - url: /assets/images/research/ForestFloor_ET_proportion.png
       image_path: /assets/images/research/ForestFloor_ET_proportion.png
