@@ -66,8 +66,8 @@ This research is part of a highly collaborative and inter-disciplinary project l
 
 ## Simulating impacts of carnivore functional diversity on ecosystem functioning on large spatial and temporal scales <a name = "BEF"></a>
 
-Carnivore community composition and richness, i.e. which and how many functional groups are present, control trophic dynamics and thereby regulate ecosystem
-functioning (ESF). Mechanisms underlying this regulation are mainly inferred via
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/research/modelling.jpg){: .align-left} Carnivore community composition and richness, i.e. which and how many functional groups are present, control trophic dynamics and thereby regulate ecosystem functioning (ESF). Mechanisms underlying this regulation are mainly inferred via
 small-scale (temporal, spatial) experiments with restricted species pools. This limits their application to real-world systems, as results are often specific to a given time (e.g. season), place (e.g. plot or ecoregion), while interactions are generally only observed across few or adjacent trophic levels.
 
 The [*Madingley Model*](https://madingley.github.io/), termed a general ecosystem model, is an agent-based, spatially-explicit model developed by [Microsoft Research in Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) and the [UNEP-WCMC](https://www.unep-wcmc.org/). It is a pioneering effort in trying to overcome aforementioned limitations.
@@ -75,7 +75,7 @@ The [*Madingley Model*](https://madingley.github.io/), termed a general ecosyste
 Using the *Madingley Model*, this study tested if (i) these diversity effects are still found when experiments are vastly extended in scale and complexity to more accurately mimic natural systems, and (ii) whether climate altered these effects.
 
 
-{% include gallery id="gallery-madingley" caption="Exemplary trophic dynamics simulated with *Madingley*, showing development of biomass and abundance densities over time (left) and for varying degrees of carnivore diversity (right)." %}
+<!-- {% include gallery id="gallery-madingley" caption="Exemplary trophic dynamics simulated with *Madingley*, showing development of biomass and abundance densities over time (left) and for varying degrees of carnivore diversity (right)." %} -->
 
 <small> *This research was done in collaboration with Drs Mike Harfoot and Drew Purves, and supported financially by the European Commission through the program Erasmus Mundus Master Course - International Master in Applied Ecology" (EMMC-IMAE) (FPA 532524-1-FR-2012-ERA MUNDUS-EMMC)* </small>
 
