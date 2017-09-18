@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-layout: default
+layout: single
 author_profile: true
 excerpt: "Professional and personal experiences."
 header:
