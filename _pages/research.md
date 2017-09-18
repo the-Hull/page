@@ -8,15 +8,15 @@ header:
 sidebar:
   nav: res
 gallery-ecohydrology:
-    - url: /assets/images/research/ForestFloor_ET_proportion.png
-      image_path: /assets/images/research/ForestFloor_ET_proportion.png
-      alt: "Partitioning of subcanopy evapotranspiration in six representative locations of a shallow wetland through summer."
-    - url: /assets/images/research/wetland.png
-      image_path: /assets/images/research/wetland.png
-      alt: "Forested wetland post fire."  
-    - url: /assets/images/research/ForestFloor_ET_control.png
+    - url: /assets/images/research/dendro.jpg
+      image_path: /assets/images/research/dendro.jpg
+      alt: "Dendroecology - sample processing"
+      - url: /assets/images/research/ForestFloor_ET_control.png
       image_path: /assets/images/research/ForestFloor_ET_control.png
       alt: "Relationship between daily subcanopy water loss from a shallow wetland through summer."
+    - url: /assets/images/research/AOS.jpg
+      image_path: /assets/images/research/AOS.jpg
+      alt: "Oil Sands Operations."  
 gallery-madingley:
     - url: /assets/images/research/trophic-dynamics.png
       image_path: /assets/images/research/trophic-dynamics.png
