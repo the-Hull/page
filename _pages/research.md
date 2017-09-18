@@ -67,8 +67,7 @@ This research is part of a highly collaborative and inter-disciplinary project l
 ## Simulating impacts of carnivore functional diversity on ecosystem functioning on large spatial and temporal scales <a name = "BEF"></a>
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/research/modelling.JPG){: .align-left} Carnivore community composition and richness, i.e. which and how many functional groups are present, control trophic dynamics and thereby regulate ecosystem functioning (ESF). Mechanisms underlying this regulation are mainly inferred via
-small-scale (temporal, spatial) experiments with restricted species pools. This limits their application to real-world systems, as results are often specific to a given time (e.g. season), place (e.g. plot or ecoregion), while interactions are generally only observed across few or adjacent trophic levels.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/research/modelling_small.jpg){: .align-left} Carnivore community composition and richness, i.e. which and how many functional groups are present, control trophic dynamics and thereby regulate ecosystem functioning (ESF). Mechanisms underlying this regulation are mainly inferred via small-scale (temporal, spatial) experiments with restricted species pools. This limits their application to real-world systems, as results are often specific to a given time (e.g. season), place (e.g. plot or ecoregion), while interactions are generally only observed across few or adjacent trophic levels.
 
 The [*Madingley Model*](https://madingley.github.io/), termed a general ecosystem model, is an agent-based, spatially-explicit model developed by [Microsoft Research in Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) and the [UNEP-WCMC](https://www.unep-wcmc.org/). It is a pioneering effort in trying to overcome aforementioned limitations.
 
