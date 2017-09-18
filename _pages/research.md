@@ -11,7 +11,7 @@ gallery-ecohydrology:
     - url: /assets/images/research/dendro.jpg
       image_path: /assets/images/research/dendro.jpg
       alt: "Dendroecology - sample processing"
-      - url: /assets/images/research/ForestFloor_ET_control.png
+    - url: /assets/images/research/ForestFloor_ET_control.png
       image_path: /assets/images/research/ForestFloor_ET_control.png
       alt: "Relationship between daily subcanopy water loss from a shallow wetland through summer."
     - url: /assets/images/research/AOS.jpg
